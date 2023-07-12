@@ -1,0 +1,39 @@
+.navigation {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #34495e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navigation .nav-link {
+  line-height: 50px;
+  height: 100%;
+  font-size: 15px;
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  cursor: pointer;
+  margin: 0 10px;
+}
+
+.animation {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  z-index: 0;
+  transition: all .5s ease 0s;
+  border-radius: 5px;
+  background-color: #1abc9c;
+}
+
+.animation.active {
+  border-radius: 5px;
+}
