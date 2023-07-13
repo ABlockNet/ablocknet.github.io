@@ -1327,7 +1327,7 @@
             }
         }
     ],
-    "news": "\n |Altameda 1.0.2 Beta| ",
+    "news": "\n |Altameda 1.0.2 Beta| \n [Client] Added database. \n TODO: Login system",
     "map-download-url": "https://maps.ddnet.org",
     "location": "eu",
     "version": "1.0.2"
