@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
     animation.style.width = activeLink.offsetWidth + 'px';
     animation.style.left = activeLink.offsetLeft + 'px';
     animation.classList.add('active');
+
   }
 
   for (var i = 0; i < navLinks.length; i++) {
