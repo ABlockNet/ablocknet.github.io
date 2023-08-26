@@ -1328,9 +1328,8 @@
         }
     ],
     "news": "  
-	\n |Altameda 1.0.3 Beta| \n [Client] Fixed rewoke IRC-Chat [26.08.2023] ~need fix crash with this chat...
-	\n |Altameda 1.0.4 Beta| \n More fix 
-	\n |Altameda 1.0.3 Beta| \n Little Fix 
+	\n |Altameda 1.0.5 Beta| \n [Client] Fixed rewoke IRC-Chat [26.08.2023] ~need fix crash with this chat...
+	\n |Altameda 1.0.4 Beta| \n Little fix 
 	\n |Altameda 1.0.3 Beta| \n [Client] Added IRC-Chat \n [Client/Server] Added NetGui  
 	\n |Altameda 1.0.2 Beta| \n [Client] Added database. \n TODO: Login system",
     "map-download-url": "https://maps.ddnet.org",
