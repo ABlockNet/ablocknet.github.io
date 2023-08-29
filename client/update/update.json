@@ -1,25 +1,31 @@
 [
- {
-    "version": "1.0.5",
-    "client": true,
-    "server": false,
-	"download": [
-		"data/audio/irc_message.wv"
-	]
-  },
- {
-    "version": "1.0.2",
-    "client": true,
-    "server": false,
-  },
-  {
-    "version": "1.0.1",
-    "client": true,
-    "server": false,
-  },
-  {
-    "version": "1.0.0",
-    "client": true,
-    "server": false
-  }
+
+	  {
+		"version": "1.0.6",
+		"client": true,
+		"server": false,
+	  },
+	  {
+		"version": "1.0.5",
+		"client": true,
+		"server": false,
+		"download": [
+			"data/audio/irc_message.wv"
+		]
+	  },
+	  {
+		"version": "1.0.2",
+		"client": true,
+		"server": false,
+	  },
+	  {
+		"version": "1.0.1",
+		"client": true,
+		"server": false,
+	  },
+	  {
+		"version": "1.0.0",
+		"client": true,
+		"server": false
+	  }
 ]
