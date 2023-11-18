@@ -1327,7 +1327,7 @@
             }
         }
     ],
-    "news": "\n\u News/Update 18.11.23\n\u[Altameda 1.0.7 Beta]\n\u[Client] Little fix, and now client support discord sdk\n\u[Client] Added effect BDASH, Pets, WIP(voice chat and translate)
+    "news": "\n\u News/Update 18.11.23\n\u[Altameda 1.0.7 Beta]\n\u[Client] Little fix, and now client support discord sdk\n\u[Client] Added effect BDASH, Pets, WIP(voice chat and translate)",
     "map-download-url": "https://maps.ddnet.org",
     "location": "eu",
     "version": "1.0.7"
