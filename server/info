@@ -1327,13 +1327,8 @@
             }
         }
     ],
-    "news": " \n News/Update 29.08.23
-	\n [Altameda 1.0.6 Beta] \n [Client] Fixed IRC Chat
-	\n [Altameda 1.0.5 Beta] \n [Client] Fixed rewoke IRC-Chat [26.08.2023] ~need fix crash with this chat...
-	\n [Altameda 1.0.4 Beta] \n Little fix 
-	\n [Altameda 1.0.3 Beta] \n [Client] Added IRC-Chat \n [Client/Server] Added NetGui  
-	\n [Altameda 1.0.2 Beta] \n [Client] Added database. \n TODO: Login system",
+    "news": "\n\u News/Update 18.11.23\n\u[Altameda 1.0.7 Beta]\n\u[Client] Little fix, and now client support discord sdk\n\u[Client] Added effect BDASH, Pets, WIP(voice chat and translate)
     "map-download-url": "https://maps.ddnet.org",
     "location": "eu",
-    "version": "1.0.5"
+    "version": "1.0.7"
 }

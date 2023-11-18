@@ -1,5 +1,14 @@
 [
-
+	  {
+		"version": "1.0.7",
+		"client": true,
+		"server": false,
+		"download": [
+			"discord_game_sdk.dll"
+			"data/editor/extras.png",
+			"data/audio/irc_message.wv"
+		]
+	  },
 	  {
 		"version": "1.0.6",
 		"client": true,
